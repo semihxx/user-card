@@ -4,6 +4,8 @@
   box-shadow: 0 0 0 1px #ccc, 0 10px 30px rgba(0, 0, 0, 0.5);
   border-radius: 3px;
   background-color: #fff;
+  position: relative;
+  cursor: pointer;
 }
 .UserCard:before, .UserCard:after {
   content: "";
